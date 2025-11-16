@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/area-graph/static/css/main.0fe98b54.css",
+    "main.js": "/area-graph/static/js/main.8e616bf2.js",
+    "index.html": "/area-graph/index.html",
+    "main.0fe98b54.css.map": "/area-graph/static/css/main.0fe98b54.css.map",
+    "main.8e616bf2.js.map": "/area-graph/static/js/main.8e616bf2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe98b54.css",
+    "static/js/main.8e616bf2.js"
+  ]
+}
